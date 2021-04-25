@@ -17,7 +17,7 @@
         lalallalalla
         android:id="@+id/title"
         android:text="      HaPpY Father's Day"
-        android:textSize="35sp"
+        android:textSize="36sp"
         android:textColor="@color/white"
         android:background="@color/black"/>
     <TextView
